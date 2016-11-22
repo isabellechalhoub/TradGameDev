@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: e12770fa72eb174439f2ba5f4e69093c
+timeCreated: 1477559177
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: rough_deploy_0
+    21300002: rough_deploy_1
+    21300004: rough_deploy_2
+    21300006: rough_deploy_3
+    21300008: rough_deploy_4
+    21300010: rough_deploy_5
+    21300012: rough_deploy_6
+    21300014: rough_deploy_7
+    21300016: rough_deploy_8
+    21300018: rough_deploy_9
+    21300020: rough_deploy_10
+    21300022: rough_deploy_11
+    21300024: rough_deploy_12
+    21300026: rough_deploy_13
+    21300028: rough_deploy_14
+    21300030: rough_deploy_15
+    21300032: rough_deploy_16
+    21300034: rough_deploy_17
+    21300036: rough_deploy_18
+    21300038: rough_deploy_19
+    21300040: rough_deploy_20
+    21300042: rough_deploy_21
+    21300044: rough_deploy_22
+    21300046: rough_deploy_23
+    21300048: rough_deploy_24
+    21300050: rough_deploy_25
+    21300052: rough_deploy_26
+    21300054: rough_deploy_27
+    21300056: rough_deploy_28
+    21300058: rough_deploy_29
+    21300060: rough_deploy_30
+    21300062: rough_deploy_31
+    21300064: rough_deploy_32
+    21300066: rough_deploy_33
+    21300068: rough_deploy_34
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 128
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rough_deploy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_7
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_8
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_9
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_12
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_13
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_14
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_22
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_24
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1042
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_26
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_27
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_28
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_29
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 542
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 42
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 42
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 42
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rough_deploy_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 294
+        width: 500
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
