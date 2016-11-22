@@ -1,0 +1,787 @@
+fileFormatVersion: 2
+guid: a766a8b09d35927428d45c31241874e3
+timeCreated: 1479714377
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: face_seg
+    21300002: left_side_bar_end_down
+    21300004: right_side_bar_end_down
+    21300006: left_side_bar_end_up
+    21300008: inside_corner
+    21300010: bar_end_D
+    21300012: bar_end_U
+    21300014: right_side_bar_end_up
+    21300016: rubble1
+    21300018: bar_seg_back
+    21300020: rubble6
+    21300022: rubble5
+    21300024: rubble3_biggun
+    21300026: sidewalk_pieces_23
+    21300028: bar_seg_side_R
+    21300030: bar_seg_side_L
+    21300032: bar_seg_side_top
+    21300034: bar_top_end_L
+    21300036: bar_top_end_R
+    21300038: rubble8
+    21300040: rubble4
+    21300042: rubble2
+    21300044: sidewalk_pieces_33
+    21300046: sidewalk_pieces_34
+    21300048: rubble7
+    21300050: rubble10
+    21300052: Bar_end_side_R
+    21300054: rubble9
+    21300056: bar_seg_top
+    21300058: sidewalk_pieces_45
+    21300060: broken_end_R
+    21300062: broken_end_L
+    21300064: broken_end_U
+    21300066: sidewalk_pieces_49
+    21300068: broken_end_D
+    21300070: sidewalk_pieces_51
+    21300072: corn_front
+    21300074: corn_top
+    21300076: bar_seg_side
+    21300078: bar_end_L
+    21300080: sidewalk_pieces_59
+    21300082: big_back_top_bar
+    21300084: sidewalk_pieces_62
+    21300086: sidewalk_pieces_63
+    21300088: big_face_pieces
+    21300090: big_top_bar
+    21300092: sidewalk_pieces_67
+    21300094: sidewalk_pieces_70
+    21300096: big_side_bar
+    21300098: bar_end_R
+    21300100: corn_side_l
+    21300102: corn_side_r
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: face_seg
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1039
+        width: 319
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_side_bar_end_down
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1020
+        width: 103
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_side_bar_end_down
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1031
+        width: 89
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: left_side_bar_end_up
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1037
+        width: 95
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: inside_corner
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1133
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_end_D
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1048
+        width: 85
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_end_U
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1045
+        width: 86
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: right_side_bar_end_up
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1042
+        width: 94
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble1
+      rect:
+        serializedVersion: 2
+        x: 1977
+        y: 1028
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_seg_back
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 997
+        width: 316
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble6
+      rect:
+        serializedVersion: 2
+        x: 1517
+        y: 1025
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble5
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1043
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble3_biggun
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 1004
+        width: 193
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_23
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1025
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_seg_side_R
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 937
+        width: 81
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_seg_side_L
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 934
+        width: 76
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_seg_side_top
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 859
+        width: 86
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_top_end_L
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 959
+        width: 228
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_top_end_R
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 957
+        width: 207
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble8
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 921
+        width: 94
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble4
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 918
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble2
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 933
+        width: 25
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_33
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 850
+        width: 258
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_34
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 954
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble7
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 925
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble10
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 932
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bar_end_side_R
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 849
+        width: 199
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: rubble9
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 932
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_seg_top
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 864
+        width: 320
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_45
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 875
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: broken_end_R
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 717
+        width: 255
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: broken_end_L
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 715
+        width: 230
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: broken_end_U
+      rect:
+        serializedVersion: 2
+        x: 1782
+        y: 711
+        width: 318
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_49
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 869
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: broken_end_D
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 721
+        width: 316
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_51
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 861
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: corn_front
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 739
+        width: 95
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: corn_top
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 767
+        width: 89
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_seg_side
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 728
+        width: 331
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_end_L
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 732
+        width: 191
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_59
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 802
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_back_top_bar
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 581
+        width: 2248
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_62
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 373
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_63
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 372
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_face_pieces
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 322
+        width: 2371
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_top_bar
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 2347
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_67
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 209
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sidewalk_pieces_70
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 184
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: big_side_bar
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 14
+        width: 2320
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bar_end_R
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 736
+        width: 316
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: corn_side_l
+      rect:
+        serializedVersion: 2
+        x: 2262
+        y: 1010
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: corn_side_r
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 1021
+        width: 87
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
